@@ -1,7 +1,7 @@
 ## About Me: Behnam Ebtesam 👋
 
 🏆 Top Rated PLUS 
-💪 8+ years of experience as a Mobile App and Web Full-Stack Developer
+💪 8+ years of experience in web & mobile development
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=20&pause=1000&center=true&width=1024&lines=I+am+a+Full+Stack+Web+and+Mobile+Developer;Over+8+years+of+Experience+in+Web+and+Mobile." alt="Typing SVG" /></a>
